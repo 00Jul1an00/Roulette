@@ -6,7 +6,6 @@ using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
 using System.Linq;
-using Assets.Scripts.Enums;
 
 namespace Assets.Scripts.Controllers
 {
